@@ -45,7 +45,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/poke_monnikki/
-[linkedin]: https://linkedin.com/in/NICOLE-WANJIKU
+[linkedin]:  https://www.linkedin.com/in/nicole-wanjiku-676916398/
 
 <!--
 **nicknicole23/nicknicole23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
