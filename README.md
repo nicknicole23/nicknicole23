@@ -15,7 +15,27 @@
 
 - [Web Development]
 
-<h3> 🤳 Connect with me:</h3>
+<h2>SKILLS</h2>
+
+- [Programming: PHP,Java]
+
+-  [Web: HTML, Java Script, CSS]
+
+-   [Database: MySQL]
+
+-    [Tools: XAMPP, Git, Visual Studio]
+
+<h2>GOAL</h2>
+
+- [Frontend frameworks
+
+-  [Database optimisation]
+
+-  [Building mobile apps with android studio]
+
+-  
+  
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,7 +44,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/poke_monnikki/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
